@@ -1,4 +1,4 @@
-# Masterclass | Building Enterprise Blockchain Applications in Dart and Flutter
+# Masterclass | Building a Full-Stack Enterprise Blockchain Application Server in Dart and Flutter
 
 This repo contains all the modules, lessons, exercises and solutions from our Masterclass: Building Blockchain Applications in Dart and Flutter course. [Dart Course](https://jitblu.com/masterclass).
 
