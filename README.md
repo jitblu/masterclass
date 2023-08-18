@@ -46,10 +46,26 @@
   * [1.13. Async Programming](#heading--1-13)
 
 **[2. Flutter Foundations](#heading--2)**
-  * [2.01. Basic text formatting](#heading--2-1)
-      * [2.01.01. Not so basic text formatting](#heading--2-1-1)
-  * [2.02. Lists, Images, Code](#heading--2-2)
-  * [2.03. Special features](#heading--2-3)
+  * [2.01. Flutter Basics](#heading--2-1)
+  * [2.02. Layouts](#heading--2-2)
+  * [2.03. Design & Theming](#heading--2-3)
+  * [2.04. Interactivity](#heading--2-4)
+  * [2.05. Assets & Media](#heading--2-5)
+  * [2.06. Navigation & Routing](#heading--2-6)
+  * [2.07. Animations & Transitions](#heading--2-7)
+  * [2.08. Accessibility & Localization](#heading--2-8)
+
+**[3. Design Patterns](#heading--3)**
+
+**[4. Architectural Patterns](#heading--4)**
+
+**[5. Developing SOA and API Backends](#heading--5)**
+
+**[6. Developing Microservices](#heading--6)**
+
+**[7. Blockchain Fundamentals](#heading==7)**
+
+**[8. Building the Basic Blockchain Infrastructure](#heading--8)**
 
 ----
 
