@@ -19,7 +19,7 @@
 
 <br />
 
-<div align="center">This repo contains all the modules, lessons, exercises and solutions from our Dart and Flutter Masterclass: Building Full-Stack Enterprise Applications Masterclass.
+<div align="center">Welcome to the comprehensive MasterClass on Building Enterprise Blockchain Applications. This course is designed to take you on a journey from beginner to advanced levels in creating powerful and scalable blockchain applications using the Dart programming language and Flutter framework. Throughout this course, you will not only learn the fundamentals of Dart and Flutter but also dive deep into blockchain technology, culminating in the development of your very own enterprise-grade blockchain application.
 
 <br />
 <br />
@@ -30,9 +30,17 @@
 
 # Course Syllabus
 
-**[1. Introduction](#heading--1)**
-  * [1.1. Markdown formatting cheatsheet](#heading--1-1)
-  * [1.2. Markdown formatting details](#heading--1-2)
+**[1. Introduction to Dart Programming](#heading--1)**
+  * [1.01. Setting up the development environment](#heading--1-1)
+  * [1.02. Dart Basics](#heading--1-2)
+  * [1.03. Dart Type System](#heading--1-3)
+  * [1.04. Control Flow](#heading--1-4)
+  * [1.05. Collections](#heading--1-5)
+  * [1.06. Null Safety](#heading--1-6)
+  * [1.07. Functions: Basics](#heading--1-7)
+  * [1.08. Functions: Advanced](#heading--1-8)
+  * [1.09. Classes: Basics](#heading--1-9)
+  * [1.10. Classes: Advanced](#heading--1-10)
 
 **[2. BBCode formatting](#heading--2)**
   * [2.1. Basic text formatting](#heading--2-1)
@@ -282,5 +290,5 @@
 1. BONUS Content: Free Dart eBook & Next Steps
 
 
-### [LICENSE: MIT](LICENSE)
+## [LICENSE: MIT](LICENSE)
 
