@@ -41,6 +41,9 @@
   * [1.08. Functions: Advanced](#heading--1-8)
   * [1.09. Classes: Basics](#heading--1-9)
   * [1.10. Classes: Advanced](#heading--1-10)
+  * [1.11. Mixins & Extensions](#heading--1-11)
+  * [1.12. Error Handling & Exceptions](#heading--1-12)
+  * [1.13. Async Programming](#heading--1-13)
 
 **[2. BBCode formatting](#heading--2)**
   * [2.1. Basic text formatting](#heading--2-1)
