@@ -1,12 +1,36 @@
-# Dart and Flutter Masterclass | Building Full-Stack Enterprise Applications
+<br/>
 
-This repo contains all the modules, lessons, exercises and solutions from our Dart and Flutter Masterclass: Building Full-Stack Enterprise Applications Masterclass. [Masterclass Course](https://jitblu.com/masterclass).
+<div align="center" style="margin: 30px;">
+<a href="https://jitblu.com/">
+  <img src="./05.resources/logo.png"   style="width:250px;" align="center" />
+</a>
+<br />
+<br />
+
+<div align="center">
+    <a href="https://jitblu.com">Home Page</a> |
+    <a href="https://discord.gg/refine">Discord</a> |
+    <a href="https://jitblu.com/examples/">Examples</a> | 
+    <a href="https://jitblu.com/blog/">Blog</a> | 
+    <a href="https://jitblu.com/docs/">Documentation</a> | 
+    <a href="https://github.com/refinedev/refine/projects/1">Roadmap</a>
+</div>
+</div>
+
+<br />
+
+<div align="center">This repo contains all the modules, lessons, exercises and solutions from our Dart and Flutter Masterclass: Building Full-Stack Enterprise Applications Masterclass.
+
+<br />
+<br />
+
+</div>
 
 ![Course Contents](05.resources/course-contents.png)
 
 # Course Syllabus
 
-**[1. Markdown](#heading--1)**
+**[1. Introduction](#heading--1)**
   * [1.1. Markdown formatting cheatsheet](#heading--1-1)
   * [1.2. Markdown formatting details](#heading--1-2)
 
