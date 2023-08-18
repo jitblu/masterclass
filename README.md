@@ -45,11 +45,11 @@
   * [1.12. Error Handling & Exceptions](#heading--1-12)
   * [1.13. Async Programming](#heading--1-13)
 
-**[2. BBCode formatting](#heading--2)**
-  * [2.1. Basic text formatting](#heading--2-1)
-      * [2.1.1. Not so basic text formatting](#heading--2-1-1)
-  * [2.2. Lists, Images, Code](#heading--2-2)
-  * [2.3. Special features](#heading--2-3)
+**[2. Flutter Foundations](#heading--2)**
+  * [2.01. Basic text formatting](#heading--2-1)
+      * [2.01.01. Not so basic text formatting](#heading--2-1-1)
+  * [2.02. Lists, Images, Code](#heading--2-2)
+  * [2.03. Special features](#heading--2-3)
 
 ----
 
